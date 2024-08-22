@@ -1,5 +1,5 @@
 # Speech to text
-This repository provides code that allows users to input audio in any language and receive a transcribed English text output. Built with Streamlit, which allows audio input and produces the transcribed english text.
+This repository provides code that allows users to input audio in any language and receive a transcribed English text output. Built with Streamlit, which allows audio input,the ouput will be the transcribed english text. 
 
 ### Features
     Multilingual Speech Recognition: Supports audio input in multiple languages.
