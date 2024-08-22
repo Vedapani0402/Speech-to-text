@@ -1,0 +1,6 @@
+streamlit
+audio_recorder_streamlit
+streamlit-mic-recorder==0.0.4
+transformers
+torch
+librosa
